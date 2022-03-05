@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Facualemandi/JavIntBoo/issues"
   },
-  "homepage": "https://github.com/Facualemandi/JavIntBoo#readme"
+  "homepage": "https://github.com/Facualemandi/JavIntBoo#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }

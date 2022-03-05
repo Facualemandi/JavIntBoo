@@ -1,0 +1,29 @@
+.avatar{
+    width: 45px;
+}
+
+.cartAv{
+   width: 25px;
+   height: 25px;
+}
+
+.p1{
+    width: 470px;
+    border-radius: 15px;
+}
+
+.p_small{
+    width: 100px;
+    border-radius: 13px;
+    
+}
+
+.sneaker{
+    color: hsl(26, 100%, 55%);
+}
+.bottom_color{
+    background-color: hsl(26, 100%, 55%);
+}
+
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss"
